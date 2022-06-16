@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url(https://cdna.artstation.com/p/assets/images/images/028/352/538/large/aub-art-wallpaper-city-min.jpg?1594221903);
+    background-size: cover;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+}
+
+.logo_link{
+    text-decoration: none;
+    font-size: 24px;
+    color: #fff;
+    text-transform: capitalize;
+    color: blue;
+}
+
+ul{
+    display: flex;
+
+}
+
+li{
+    display: inline;
+    margin: 0 20px;
+}
+
+.logo{
+    color: red;
+}
+
+.nav_link{  
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    text-transform: capitalize;
+    color: #02aeae;
+}
+
+.nav_btn{
+    border-radius: 20px;
+    background-color: #02aeae;
+    color: #fff;
+    padding: 5px 20px;
+    text-decoration: none;
+
+}
+
+.red{
+    color: red;
+}
+
+.blue{
+    color: blue;
+}
+
+h1{
+    color: violet;
+    display: flex;
+    justify-content: center;
+    margin-top: 15%;
+    
+}
+
+p{
+    text-align: center;
+    color:rgb(115, 255, 0) ;
+}
